@@ -1,0 +1,6 @@
+{
+  "name": "เกมแมวกินหนู (Cat & Mouse Chase)",
+  "description": "สนุกกับเกมแมวจับหนู แอคชั่นสุดมันส์พร้อมโหมดการเล่นหลากหลาย สะสมเนยแข็ง ใช้แคทนิป และทำคะแนนสูงสุด!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
